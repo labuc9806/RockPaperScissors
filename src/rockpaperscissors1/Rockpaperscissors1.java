@@ -1,6 +1,6 @@
 /*
  * Launa Bucher-Austin
- * This program
+ * This program allows the user to play rock paper scissors with the computer, and displays the number of games won by the user. 
  * April 22 2020
  */
 package rockpaperscissors1;
